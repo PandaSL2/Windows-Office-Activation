@@ -12,4 +12,4 @@ windows activate, office activate
 
 
 
-Finally, you can see ( Windows is activated with a digital license ) Message.
+Finally, you can see (  Windows is activated with a digital license linked to your account ) Message.
