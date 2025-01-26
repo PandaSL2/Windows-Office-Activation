@@ -1,14 +1,13 @@
 # Windows-Activate-free
 windows activate, office activate 
 
-01. Disable virus guard temporarily
+1. Disable virus guard temporarily
 
-02. Open Windows Powershell as administrator
+2. Open Windows Powershell as administrator
    
+3.copy & paste this code to PowerShell "irm https://get.activated.win | iex"
 
-03.copy & paste this code to PowerShell "irm https://get.activated.win | iex"
-
-04. Select "1" to activate Windows & Select "2" to activate Office 
+4. Select "1" to activate Windows & Select "2" to activate Office 
 
 
 Finally, you can see ( Windows is activated with a digital license ) Message.
