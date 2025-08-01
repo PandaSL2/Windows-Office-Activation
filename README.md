@@ -1,15 +1,15 @@
-# Windows-Activate-free
+# How to Activate Windows / Office?
+
 windows activate, office activate 
 
- 1. Disable virus guard temporarily
+Disable virus guard temporarily & Open PowerShell
 
- 2. Open Windows Powershell as administrator
+To do that, press the Windows key + X, then select PowerShell or Terminal.
 
- 3.copy & paste this code to PowerShell "irm https://get.activated.win | iex"
+Copy and paste the code below, then press enter.
 
- 4. Select "1" to activate Windows & Select "2" to activate Office 
+irm https://get.activated.win | iex
 
+You will see the activation options. Choose the activation options highlighted in green.
 
-
-
-Finally, you can see (  Windows is activated with a digital license linked to your account ) Message.
+That's all
